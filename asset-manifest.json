@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/themeswticher/static/css/main.a7ab2942.css",
+    "main.js": "/themeswticher/static/js/main.bfc59199.js",
+    "static/js/787.ecb14044.chunk.js": "/themeswticher/static/js/787.ecb14044.chunk.js",
+    "index.html": "/themeswticher/index.html",
+    "main.a7ab2942.css.map": "/themeswticher/static/css/main.a7ab2942.css.map",
+    "main.bfc59199.js.map": "/themeswticher/static/js/main.bfc59199.js.map",
+    "787.ecb14044.chunk.js.map": "/themeswticher/static/js/787.ecb14044.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ab2942.css",
+    "static/js/main.bfc59199.js"
+  ]
+}
